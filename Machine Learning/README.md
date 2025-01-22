@@ -17,4 +17,14 @@ Internpe AI/ML Internship (dec-30-2024  -->  jan-26-2025)
 <br>
 [Dataset] is present in the file. 
 
+## IPL Prediction Model
+## WEEK 3
+**Problem Statement:**  _Create a machine learning model that can predict the ipl match 1st inning score . You can use techniques like logistic regression model, neural nets model, tree model._
+<br>
+[Dataset] is present in the file.
 
+## Breast Cancer Prediction
+## WEEK 4
+**Problem Statement:**  _Create a machine learning model that can predict the Breast cancer using various parameters. You can use techniques like logistic regression model. In this Folder (1) Breast cancer classification using Machine Learning. (2) Exploratory Data Analysis (EDA). (3)Data Visualization in python. These files are also added._
+<br>
+[Dataset] is present in the file.
